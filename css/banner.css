@@ -4,3 +4,16 @@
     background-position: center;
     height: 100vh;
 }
+
+.banner .logo{
+    width: 140px;
+    position: absolute;
+    top: 4%;
+    left: 10%;
+}
+
+.banner .banner-text{
+    text-align: center;
+    color: #fff;
+    padding-top: 180px;
+}
