@@ -36,7 +36,21 @@
         </nav>
     </div>
     <div class="menuBtn">
-        <img src="Barber_Shop_img/menu.png" alt="botão menu">
+        <img src="Barber_Shop_img/menu.png" alt="botão menu" class="menu">
     </div>
+    <script>
+        let menuBtn = document.querySelector('.menuBtn')
+        let sideNav = document.querySelector('.sideNav')
+        let menu = document.querySelector('.menu')
+
+        menuBtn.onclick = function(){
+            if(sideNav.style.right == "-250px"){
+                sideNav.style.right = "0"
+            }else{
+                sideNav.style.right = "-250px"
+            }
+        }
+
+    </script>
 </body>
 </html>
