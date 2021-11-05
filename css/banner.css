@@ -27,3 +27,16 @@
     font-size: 20px;
     font-style: italic;
 }
+
+.banner .banner-btn{
+    margin: 70px auto 0;
+}
+
+.banner .banner-btn a{
+    width: 150px;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 12px 0;
+    color: #fff;
+    border: 0.5px solid #fff;
+}
