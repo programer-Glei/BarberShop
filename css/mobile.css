@@ -1,0 +1,10 @@
+@media screen and (max-width: 770px){
+    .banner .banner-text h1{
+        font-size: 44px;
+    }
+
+    .banner .banner-btn a{
+        display: block;
+        margin: 20px auto;
+    }
+}
