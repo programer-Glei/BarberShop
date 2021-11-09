@@ -43,3 +43,12 @@
     align-items: center;
     text-align: center;
 }
+
+.feature .features{
+    flex-basis: 50%;
+}
+
+.feature .features-img{
+    flex-basis: 50%;
+    margin: auto;
+}
