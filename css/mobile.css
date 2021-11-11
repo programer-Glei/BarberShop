@@ -17,11 +17,10 @@
     }
 
     .feature .features-img{
-        flex-basis: 1000%;
+        flex-basis: 100%;
     }
 
     .feature .features-img img{
-        width: 70%;
-        border-radius: 10px;
+        width: 100%;
     }
 }
