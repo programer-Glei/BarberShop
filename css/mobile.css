@@ -8,7 +8,7 @@
         margin: 20px auto;
     }
 
-    .feature .title-text h1{
+    .title-text h1{
         font-size: 35px;
     }
 
@@ -22,5 +22,22 @@
 
     .feature .features-img img{
         width: 100%;
+    }
+
+    .service .service-box .single-service{
+        flex-basis: 100%;
+        margin-bottom: 30px;
+    }
+
+    .service .service-box .single-service .service-desc p{
+        font-size: 12px;
+    }
+
+    .service .service-box .single-service .service-desc hr{
+        margin: 5px auto;
+    }
+
+    .service .service-box .single-service:hover .service-desc{
+        bottom: 25% !important;
     }
 }
