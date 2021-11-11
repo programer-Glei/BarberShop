@@ -7,4 +7,21 @@
         display: block;
         margin: 20px auto;
     }
+
+    .feature .title-text h1{
+        font-size: 35px;
+    }
+
+    .feature .features{
+        flex-basis: 100%;
+    }
+
+    .feature .features-img{
+        flex-basis: 1000%;
+    }
+
+    .feature .features-img img{
+        width: 70%;
+        border-radius: 10px;
+    }
 }
