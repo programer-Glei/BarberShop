@@ -33,6 +33,16 @@
     border-radius: 3px;
 }
 
+.testimonial .testimonial-row .testimonial-col .user .user-info .fa{
+    margin-left: 10px;
+    color: #27c0ff;
+    font-size: 20px;
+}
+
+.testimonial .testimonial-row .testimonial-col .user .user-info small{
+    color: #009688;
+}
+
 .testimonial .testimonial-row .testimonial-col p{
     font-size: 14px;
 }
