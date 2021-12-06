@@ -1,6 +1,16 @@
 .footer{
     padding: 100px 0 20px;
     background: #efefef;
+    position: relative;
+}
+
+.footer .footer-img{
+    max-width: 370px;
+    opacity: 0.1;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%,-50%);
 }
 
 .footer .footer-row{
@@ -19,4 +29,12 @@
 
 .footer .footer-row .footer-right{
     text-align: right;
+}
+
+.footer .footer-row h1{
+    margin: 10px 0;
+}
+
+.footer .footer-row p{
+    line-height: 35px;
 }
