@@ -40,4 +40,8 @@
     .service .service-box .single-service:hover .service-desc{
         bottom: 25% !important;
     }
+
+    .testimonial .testimonial-row .testimonial-col{
+        flex-basis: 100%;
+    }
 }

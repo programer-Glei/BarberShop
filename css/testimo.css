@@ -45,7 +45,7 @@
 }
 
 .testimonial .testimonial-row .testimonial-col:hover{
-    transform: translateY(7px);
+    transform: translateY(-7px);
 }
 
 .testimonial .testimonial-row .testimonial-col p{
