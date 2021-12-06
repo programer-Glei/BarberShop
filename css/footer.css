@@ -4,5 +4,19 @@
 }
 
 .footer .footer-row{
-    
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer .footer-row .footer-left, .footer .footer-row .footer-right{
+    flex-basis: 45%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.footer .footer-row .footer-right{
+    text-align: right;
 }
