@@ -38,3 +38,18 @@
 .footer .footer-row p{
     line-height: 35px;
 }
+
+.footer .social-links{
+    text-align: center;
+}
+
+.footer .social-links .fa{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    border: 1px solid #009688;
+    margin: 40px 5px 0;
+    color: #009688;
+    cursor: pointer;
+}
