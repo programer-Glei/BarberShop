@@ -52,4 +52,11 @@
     margin: 40px 5px 0;
     color: #009688;
     cursor: pointer;
+    transition: 0.5s;
+}
+
+.footer .social-links .fa:hover{
+    background: #009688;
+    color: #fff;
+    transform: translateY(-7px);
 }

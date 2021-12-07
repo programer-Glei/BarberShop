@@ -44,4 +44,13 @@
     .testimonial .testimonial-row .testimonial-col{
         flex-basis: 100%;
     }
+
+    .footer .footer-img{
+        top: 25%;
+    }
+
+    .footer .footer-row .footer-left, .footer .footer-row .footer-right{
+        flex-basis: 100%;
+        font-size: 14px;
+    }
 }
